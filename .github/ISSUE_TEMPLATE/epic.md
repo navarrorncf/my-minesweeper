@@ -1,13 +1,13 @@
 ---
-name: User Story
-about: Template for a user story ticket
-title: User story title
-labels: story
+name: Epic
+about: Describe this issue template's purpose here.
+title: ''
+labels: epic
 assignees: ''
 
 ---
 
-Quick links: [Summary](#summary) | [Description](#description) | [Acceptance Criteria](#ac) | [Dev hints](#devhints) | [Notes](#notes)
+Quick links: [Summary](#summary) | [Description](#description) | [Implemented by](#implementedby) | [Dev hints](#devhints) | [Notes](#notes)
 
 ---
 
@@ -27,10 +27,10 @@ Quick links: [Summary](#summary) | [Description](#description) | [Acceptance Cri
 ```
 
 
-### <a name="ac"></a>Acceptance Criteria
+### <a name="implementedby"></a>Implemented by
 
-1. [If I do A.]
-1. [B should happen.]
+1. [ ] [Issue 1](https://link.to.issue/1)
+1. [ ] [Issue 2](https://link.to.issue/2)
 
 [
 Also, here are a few points that need to be addressed:
