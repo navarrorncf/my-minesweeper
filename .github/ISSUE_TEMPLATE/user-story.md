@@ -1,24 +1,24 @@
 ---
 name: User Story
 about: Template for a user story ticket
-title: "[CODE_FOR_TICKET] - Feature name placeholder"
+title: User story title
 labels: ''
 assignees: ''
 
 ---
 
-Quick links: [Summary](#summary) | [Description](#description) | [Template](#template) | [Example](#example) | [Resources](#resources)
+Quick links: [Summary](#summary) | [Description](#description) | [Acceptance Criteria](#ac) | [Dev hints](#devhints) | [Notes](#notes)
 
 ---
 
 
-### Summary
+### <a name="summary"></a>Summary
 1. **As a** [user concerned by the story]
 1. **I want** [goal of the story]
 1. **so that** [reason for the story]
 
 
-### Description
+### <a name="description"></a>Description
 ```markdown
 1. I click on the “submit” button.
 1. A modal window appears if I don’t have enough credits.
@@ -27,7 +27,7 @@ Quick links: [Summary](#summary) | [Description](#description) | [Template](#tem
 ```
 
 
-### Acceptance Criteria
+### <a name="ac"></a>Acceptance Criteria
 
 1. [If I do A.]
 1. [B should happen.]
@@ -41,14 +41,14 @@ Also, here are a few points that need to be addressed:
 ]
 
 
-### Dev hints:
+### <a name="devhints"></a>Dev hints:
 
 * Mockups: [Here goes a URL to or the name of the mockup(s) in inVision];
 * Testing URL: [Here goes a URL to the testing branch or IP];
 * Staging URL: [Here goes a URL to the feature on staging];
 
 
-### Notes
+### <a name="notes"></a>Notes
 
 [Some complementary notes if necessary:]
 
