@@ -7,19 +7,51 @@ assignees: ''
 
 ---
 
-# Acceptance Criteria:
-- [ ] Acceptance criteria 01
-- [ ] Acceptance criteria 02
-- [ ] Acceptance criteria 03
+Quick links: [Summary](#summary) | [Description](#description) | [Template](#template) | [Example](#example) | [Resources](#resources)
 
-## Summary:
+---
 
-Please describe in detail what it to be done.
 
-### Open questions:
+### Summary
+1. **As a** [user concerned by the story]
+1. **I want** [goal of the story]
+1. **so that** [reason for the story]
 
-Optional. Erase if empty.
+
+### Description
+```markdown
+1. I click on the “submit” button.
+1. A modal window appears if I don’t have enough credits.
+1. The modal window contains the following:
+  1. […]
+```
+
+
+### Acceptance Criteria
+
+1. [If I do A.]
+1. [B should happen.]
+
+[
+Also, here are a few points that need to be addressed:
+
+1. Constraint 1;
+1. Constraint 2;
+1. Constraint 3.
+]
+
 
 ### Dev hints:
 
-Any technical information that may be useful in achieving the issue goal. Erase if empty
+* Mockups: [Here goes a URL to or the name of the mockup(s) in inVision];
+* Testing URL: [Here goes a URL to the testing branch or IP];
+* Staging URL: [Here goes a URL to the feature on staging];
+
+
+### Notes
+
+[Some complementary notes if necessary:]
+
+* > Here goes a quote from an email
+* Here goes whatever useful information can exist…
+```
